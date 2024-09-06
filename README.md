@@ -1,5 +1,6 @@
+# Hello, And My name is Sumit Chhetri 
 <p align="center">
-  # Hello And My name is Sumit Chhetri 
+ 
 </p>
 - 👀 I’m very much interested in Coding
 - 🌱 I’m currently learning 

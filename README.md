@@ -1,4 +1,4 @@
-# Hello And My name is Sumit Chhetri
+#                                                                               Hello And My name is Sumit Chhetri
 
 - 👀 I’m very much interested in Coding
 - 🌱 I’m currently learning 

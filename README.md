@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Sumit Chhetri
-- 👀 I’m interested in Coding
+# Hello And My name is Sumit Chhetri
+
+- 👀 I’m very much interested in Coding
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

@@ -1,12 +1,10 @@
 # Hello, And My name is Sumit Chhetri 
-<p align="center">
- 
-</p>
+
 - 👀 I’m very much interested in Coding
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: hw/him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---

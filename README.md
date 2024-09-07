@@ -2,7 +2,7 @@
 
 - 👀 I’m very much interested in Coding
 
-- 🌱 I’m currently learning Javascript mostly
+- 🌱 I’m currently learning Javascript 
 
 - 📫 How to reach me sumitchhetri277@gmail.com
 

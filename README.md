@@ -18,13 +18,12 @@ Having peaked interest in coding
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=JurgenHonest&icon=10&color=0)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![](https://visitcount.itsvg.in/api?id=SumitChhetri277&label=Donate%20me&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

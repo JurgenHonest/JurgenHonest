@@ -1,3 +1,6 @@
+# Hello, My name is Sumit Chhetri
+Having peaked interest in coding
+
 # 💫 About Me:
 👀 I’m very much interested in Coding<br><br>🌱 I’m currently learning Javascript<br><br>📫 How to reach me sumitchhetri277@gmail.com<br><br>😄 Pronouns: he/him<br><br>⚡ Fun fact: There is no fun in coding
 

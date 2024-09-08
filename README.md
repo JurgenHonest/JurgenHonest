@@ -21,7 +21,7 @@ Having peaked interest in coding
 
 
   ## 💰 You can help me by Donating
-  [![](https://visitcount.itsvg.in/api?id=SumitChhetri277&label=Donate%20me&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=SumitChhetri277&label=Donate%20me&color=2&icon=0&pretty=true&width=100&height=50)](https://visitcount.itsvg.in)
 
   
 

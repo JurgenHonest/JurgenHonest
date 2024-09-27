@@ -1,4 +1,4 @@
-[![MasterHead](https://www.lovelocaldesign.com/wp-content/uploads/2016/09/process-dev-banner2.gif)]
+![MasterHead](https://www.lovelocaldesign.com/wp-content/uploads/2016/09/process-dev-banner2.gif)
 <h1 align="center">Hi 👋, I'm Sumit Chhetri</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img width="400" align="right" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">

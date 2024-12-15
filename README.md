@@ -12,6 +12,7 @@
 - 👯 I’m looking to collaborate on [Chess App](https://sumit-chessapp.netlify.app/)
 
 - 📫 How to reach me **sumitchhetri277@gmail.com**
+- Homepage of sumit [Homepage](https://homepage-of-sumit.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

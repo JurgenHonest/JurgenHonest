@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **sumitchhetri277@gmail.com**
 - Homepage of sumit [Homepage](https://homepage-of-sumit.netlify.app/)
+  (Right-click and open in a new tab)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

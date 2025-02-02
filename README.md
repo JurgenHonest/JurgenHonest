@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript, Typescript, Node**
 
 - 👯 I’m looking to collaborate on [Chess App](https://sumit-chessapp.netlify.app/)
 
